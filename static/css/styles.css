@@ -1,46 +1,45 @@
-/* Remove default margins and paddings */
 html, body {
     margin: 0;
     padding: 0;
     height: 100%;
     width: 100%;
-    overflow-x: hidden; /* Prevent horizontal scroll on the body */
+    overflow-x: hidden;
 }
 
-/* Make the container adapt to the content height */
 .container {
     position: relative;
-    display: flex;
-    justify-content: center; /* Horizontally centers the content */
-    align-items: center; /* Vertically centers the content */
     width: 100%;
-    min-height: 100vh; /* Ensure it covers at least the full viewport height */
-    background-image: url('../images/background.jpg'); /* Background image */
-    background-size: cover; /* Cover the container area */
-    background-position: top; /* Align the background image to the top */
-    background-repeat: no-repeat; /* Prevent repeating the background image */
-    overflow: hidden; /* Hide any overflow from the background image */
+    min-height: 100vh;
+    background-image: url('../images/background.jpg'); 
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    overflow: hidden;
 }
 
-.overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.291); /* Black overlay with 29% opacity */
-    z-index: 1; /* Places the overlay above the background image */
+.dp-image {
+    position: absolute; /* Position relative to the container */
+    top: 30%; /* Position 30% from the top of the container */
+    right: 10%; /* Position 10% from the right of the container */
+    transform: translateY(-50%); /* Center vertically */
 }
 
-.content {
-    position: relative;
-    z-index: 2; /* Ensures the content is above the overlay */
-    color: white; /* Text color */
-    text-align: center; /* Center text alignment */
-    padding: 20px; /* Add some padding around the content */
+.dp-image img {
+    border-radius: 250px; /* Keep circular shape */
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
 }
 
-/* Ensure the body allows vertical scrolling */
+.name {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 5%;
+    font-family: 'Abhaya Libre SemiBold';
+    z-index: 2;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -49,13 +48,13 @@ body {
 .container1 {
     position: relative;
     display: flex;
-    justify-content: center; /* Horizontally centers the content */
-    align-items: center; /* Vertically centers the content */
+    justify-content: center;
+    align-items: center;
     width: 100%;
-    min-height: 100vh; /* Ensure it covers at least the full viewport height */
-    background-color: rgb(231, 194, 150);
-    background-size: cover; /* Cover the container area */
-    background-position: top; /* Align the background image to the top */
-    background-repeat: no-repeat; /* Prevent repeating the background image */
-    overflow: hidden; /* Hide any overflow from the background image */
+    min-height: 100vh;
+    background-color: #ceb982;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    overflow: hidden;
 }

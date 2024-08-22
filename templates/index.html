@@ -1,26 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Flask App with Static CSS</title>
-    <!-- Link to the static CSS file -->
-    
-</head>
-<body>
+
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/styles.css') }}"
+    />
+  </head>
+  <body>
     <div class="container">
-        <div class="overlay"></div>
-        <div class="content">
-            <h1>Your Content Here</h1>
-        </div>
+      <div class="overlay"></div>
+      <div class="dp-image">
+        <img
+          src="{{ url_for('static', filename='images/dp.jpeg') }}"
+          alt="Profile picture"
+        />
+      </div>
+      <div class="name">
+        <h1>Muhammad Musa</h1>
+      </div>
     </div>
-    
+
     <div class="container1">
-        <div class="overlay"></div>
-        <div class="content">
-            <h1>Your Second Section</h1>
-            <p>Additional content for the second section...</p>
-        </div>
+      <div class="overlay"></div>
+      <div class="content">
+        <h1>Your Second Section</h1>
+        <p>Additional content for the second section...</p>
+      </div>
     </div>
-</body>
+  </body>
 </html>
