@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=IBM Plex Mono:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Playfair Display:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abhaya Libre Medium:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abhaya Libre:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Abhaya Libre SemiBold:wght@400&display=swap"
+    />
+
+    <style>
+      body {
+        margin: 0;
+        line-height: normal;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      style="
+        width: 100%;
+        position: relative;
+        background-color: #fff;
+        height: 5542px;
+        overflow: hidden;
+        text-align: left;
+        font-size: 36px;
+        color: #000;
+        font-family: 'Abhaya Libre Medium';
+      "
+    >
+      <img
+        style="
+          position: absolute;
+          top: 0px;
+          left: 0px;
+          width: 1512px;
+          height: 2267px;
+          object-fit: cover;
+        "
+        alt=""
+        src="./public/adrienolichon-gh9lwhlso4unsplash-1@2x.png"
+      />
+
+      <div
+        style="
+          position: absolute;
+          top: 0px;
+          left: 0px;
+          background-color: #000;
+          width: 1512px;
+          height: 982px;
+          opacity: 0.01;
+        "
+      ></div>
+      <div
+        style="
+          position: absolute;
+          top: 982px;
+          left: 0px;
+          background-color: #ceb982;
+          width: 1512px;
+          height: 982px;
+        "
+      ></div>
+      <b
+        style="
+          position: absolute;
+          top: 55px;
+          left: 72px;
+          font-size: 40px;
+          display: inline-block;
+          font-family: 'Playfair Display';
+          color: #fff;
+          width: 415px;
+          height: 44px;
+        "
+        >Muhammad Musa</b
+      >
+      <img
+        style="
+          position: absolute;
+          top: 141px;
+          left: 1087px;
+          border-radius: 537px;
+          width: 319px;
+          height: 317px;
+          object-fit: cover;
+        "
+        alt=""
+        src="./public/dp101-1@2x.png"
+      />
+
+      <div
+        style="
+          position: absolute;
+          top: 299px;
+          left: 124px;
+          font-size: 40px;
+          line-height: 49px;
+          color: #fff;
+          display: inline-block;
+          width: 897px;
+          height: 294px;
+        "
+      >
+        Welcome to my portfolio, where creativity meets technology and passion
+        drives innovation. I am a senior-year student at Ghulam Ishaq Khan
+        Institute of Engineering Sciences and Technology (GIKI), pursuing a BS
+        in Artificial Intelligence.
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 1359px;
+          left: 124px;
+          line-height: 44px;
+          display: inline-block;
+          width: 1198px;
+          height: 132px;
+        "
+      >
+        My academic journey has equipped me with the expertise to bridge the gap
+        between data, AI, and user experience, crafting intelligent,
+        user-centric solutions that address real-world challenges.
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 1039px;
+          left: 72px;
+          font-size: 64px;
+          line-height: 44px;
+          display: inline-block;
+          width: 593px;
+        "
+      >
+        Academic
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 2021px;
+          left: 72px;
+          font-size: 64px;
+          line-height: 44px;
+          color: #fff;
+          display: inline-block;
+          width: 593px;
+        "
+      >
+        Skills
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 1133px;
+          left: 124px;
+          font-size: 40px;
+          line-height: 49px;
+          display: inline-block;
+          width: 1239px;
+          height: 176px;
+          font-family: 'Abhaya Libre';
+        "
+      >
+        <p style="margin: 0; font-family: 'Abhaya Libre SemiBold'">
+          Education:
+        </p>
+        <p style="margin: 0">
+          Ghulam Ishaq Khan Institute of Engineering Sciences and Technology
+        </p>
+        <p style="margin: 0">BS Artificial Intelligence · (2021 - Present)</p>
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 1594px;
+          left: 122px;
+          line-height: 44px;
+          display: inline-block;
+          width: 1241px;
+          height: 305px;
+        "
+      >
+        As a Data Scientist and Web Developer, I specialize in developing
+        AI-powered applications using frameworks like TensorFlow and PyTorch. My
+        work spans diverse domains such as agriculture and healthcare, tackling
+        complex challenges with innovative solutions. Additionally, I create
+        user-friendly web applications using Flask, seamlessly integrating data
+        while prioritizing user experience.
+      </div>
+      <img
+        style="
+          position: absolute;
+          top: 2267px;
+          left: 0px;
+          width: 1512px;
+          height: 2267px;
+          object-fit: cover;
+        "
+        alt=""
+        src="./public/adrienolichon-gh9lwhlso4unsplash-2@2x.png"
+      />
+
+      <div
+        style="
+          position: absolute;
+          top: 4082px;
+          left: 0px;
+          background-color: #ceb982;
+          width: 1512px;
+          height: 1812px;
+        "
+      ></div>
+      <div
+        style="
+          position: absolute;
+          top: 2115px;
+          left: 124px;
+          line-height: 49px;
+          font-family: 'Abhaya Libre SemiBold';
+          color: #fff;
+          display: inline-block;
+          width: 1004px;
+          height: 1995px;
+        "
+      >
+        <p style="margin: 0">Top Skills:</p>
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li style="margin-bottom: 0px">Large Language Models (LLM)</li>
+          <li style="margin-bottom: 0px">Deep Learning</li>
+        </ul>
+        <p style="margin: 0">&nbsp;</p>
+        <p style="margin: 0">Technical Skills:</p>
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li style="margin-bottom: 0px">Programming: Python, C++</li>
+          <li style="margin-bottom: 0px">Web Development: Flask, HTML, CSS</li>
+          <li style="margin-bottom: 0px">Data Science & AI:</li>
+          <li style="margin-bottom: 0px">Exploratory data analysis</li>
+          <li style="margin-bottom: 0px">Feature engineering</li>
+          <li style="margin-bottom: 0px">
+            Machine learning models (e.g., logistic regression, random forest)
+          </li>
+          <li style="margin-bottom: 0px">
+            Deep learning (TensorFlow, PyTorch)
+          </li>
+          <li style="margin-bottom: 0px">Performance evaluation</li>
+        </ul>
+        <p style="margin: 0">&nbsp;</p>
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li style="margin-bottom: 0px">User Interface Design:</li>
+          <li style="margin-bottom: 0px">
+            Visual Elements of User Interface Design
+          </li>
+          <li style="margin-bottom: 0px">
+            Building Dynamic User Interfaces (UI) for Websites
+          </li>
+        </ul>
+        <p style="margin: 0">&nbsp;</p>
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li style="margin-bottom: 0px">
+            Generative AI: Introduction to Generative AI
+          </li>
+          <li style="margin-bottom: 0px">Lead Generation:</li>
+          <li style="margin-bottom: 0px">Messenger Chatbot using Chatfuel</li>
+          <li style="margin-bottom: 0px">Email and Google Sheets automation</li>
+        </ul>
+        <p style="margin: 0">&nbsp;</p>
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li style="margin-bottom: 0px">3D Modeling: Blender</li>
+          <li style="margin-bottom: 0px">Graphic Design Software:</li>
+          <li style="margin-bottom: 0px">Adobe Photoshop</li>
+          <li style="margin-bottom: 0px">Adobe Illustrator</li>
+          <li style="margin-bottom: 0px">Adobe Premiere Pro</li>
+          <li style="margin-bottom: 0px">Adobe Lightroom</li>
+          <li style="margin-bottom: 0px">Adobe XD</li>
+          <li style="margin-bottom: 0px">Canva</li>
+        </ul>
+        <p style="margin: 0">&nbsp;</p>
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li style="margin-bottom: 0px">
+            Data Structures: Python Data Structures
+          </li>
+          <li style="margin-bottom: 0px">Machine Learning:</li>
+          <li style="margin-bottom: 0px">Neural Networks</li>
+          <li style="margin-bottom: 0px">
+            Convolutional Neural Networks (CNN)
+          </li>
+        </ul>
+        <p style="margin: 0">&nbsp;</p>
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li>Computer Vision: Image Processing, Computer Vision</li>
+        </ul>
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 4870px;
+          left: 72px;
+          line-height: 49px;
+          font-family: 'Abhaya Libre SemiBold';
+          display: inline-block;
+          width: 1129px;
+          height: 49px;
+        "
+      >
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li>Programming for Everybody (Getting Started with Python)</li>
+        </ul>
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 4135px;
+          left: 72px;
+          font-size: 64px;
+          line-height: 49px;
+          display: inline-block;
+          width: 593px;
+          height: 75px;
+        "
+      >
+        Certifications
+      </div>
+      <div
+        style="
+          position: absolute;
+          top: 4210px;
+          left: 72px;
+          line-height: 49px;
+          font-family: 'Abhaya Libre SemiBold';
+          display: inline-block;
+          width: 986px;
+          height: 49px;
+        "
+      >
+        <ul
+          style="
+            margin: 0;
+            font-family: inherit;
+            font-size: inherit;
+            padding-left: 48px;
+          "
+        >
+          <li>Python Data Structures</li>
+        </ul>
+      </div>
+      <img
+        style="
+          position: absolute;
+          top: 4284px;
+          left: 401px;
+          width: 711px;
+          height: 543px;
+          object-fit: cover;
+        "
+        alt=""
+        src="./public/screenshot-20240822-at-11029am-1@2x.png"
+      />
+
+      <img
+        style="
+          position: absolute;
+          top: 4944px;
+          left: 401px;
+          width: 711px;
+          height: 543px;
+          object-fit: cover;
+        "
+        alt=""
+        src="./public/screenshot-20240822-at-11029am-1@2x.png"
+      />
+    </div>
+  </body>
+</html>
