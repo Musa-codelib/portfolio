@@ -52,38 +52,48 @@ html, body {
     height: 294px;
 }
 
-body {
-    display: flex;
-    flex-direction: column;
-}
-
-.container1 {
-    position: relative;
-    display: flex;
-    width: 100%;
-    min-height: 100vh;
+.academic-details {
     background-color: #ceb982;
-    background-size: cover;
-    background-position: top;
-    background-repeat: no-repeat;
-    overflow: hidden;
+    padding: 20px;
+    width: 100%; /* Full width to allow content centering */
+    box-sizing: border-box; /* Include padding in the element's total width and height */
 }
 
-.aca {
-    color: rgb(0, 0, 0);
+.academic-details .container1 {
+    margin-left: 3%;
+}
+
+.academic-details .aca h1 {
+    font-size: 40px;
+    line-height: 24px;
+    margin: 0;
     text-align: left;
-    padding-left: 5%;
-    font-family: 'Abhaya Libre SemiBold';
+    padding-top: 20px;
 }
 
-.edu {
-    margin-top: 70px;
-    margin-left: 0;
+.academic-details .education-section {
+    margin-top: 20px;
+    margin-left: 10px; /* Increased left margin */
+}
+
+.academic-details .education-section .edu {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.academic-details .education-section .giki, 
+.academic-details .education-section .ai {
+    margin: 0px;
+    font-size: 22px;
+    padding-left: 20px;
+}
+
+.academic-details .journey-text {
     font-size: 20px;
-}
-.giki {
-    margin-top: 25px;
-}
-.ai {
-    margin-top: 25px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* Center the text block */
+    text-align: justify; /* Justify the text */
+    line-height: 20px;
 }
